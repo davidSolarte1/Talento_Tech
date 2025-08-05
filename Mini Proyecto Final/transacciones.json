@@ -33,5 +33,26 @@
         "descripcion": "f",
         "categoria": "Servicios",
         "fecha": "02-05-2025"
+    },
+    {
+        "tipo": "gasto",
+        "monto": 129.0,
+        "descripcion": "",
+        "categoria": "Entretenimiento",
+        "fecha": "05-02-2025"
+    },
+    {
+        "tipo": "gasto",
+        "monto": 133.0,
+        "descripcion": "",
+        "categoria": "Educaci\u00f3n",
+        "fecha": "06-02-2025"
+    },
+    {
+        "tipo": "gasto",
+        "monto": 5.0,
+        "descripcion": "",
+        "categoria": "Servicios",
+        "fecha": "02-06-2025"
     }
 ]
