@@ -1,0 +1,1 @@
+En este apartado se encuentra el aplicativo usando la biblioteca Tkinter en Visual Studio Code.

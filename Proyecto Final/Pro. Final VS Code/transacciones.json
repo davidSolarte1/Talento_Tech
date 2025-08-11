@@ -54,5 +54,19 @@
         "descripcion": "",
         "categoria": "Servicios",
         "fecha": "02-06-2025"
+    },
+    {
+        "tipo": "ingreso",
+        "monto": 1322.0,
+        "descripcion": "pago",
+        "categoria": "Educaci\u00f3n",
+        "fecha": "12-02-2025"
+    },
+    {
+        "tipo": "gasto",
+        "monto": 123.0,
+        "descripcion": "",
+        "categoria": "Salud",
+        "fecha": "06-08-2025"
     }
 ]
